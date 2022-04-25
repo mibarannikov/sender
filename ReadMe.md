@@ -19,5 +19,8 @@ Alternatively you can use the [Spring Boot Maven plugin](https://docs.spring.io/
 ```shell
 mvn spring-boot:run
 ```
+## Additionally
+
+Implemented 5 and 10 sections of the additional task.
 
 
