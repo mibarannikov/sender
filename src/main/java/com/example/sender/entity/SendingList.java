@@ -1,6 +1,6 @@
-package com.example.demo.entity;
+package com.example.sender.entity;
 
-import com.example.demo.entity.enums.SendingListStatus;
+import com.example.sender.entity.enums.SendingListStatus;
 import lombok.Getter;
 import lombok.Setter;
 

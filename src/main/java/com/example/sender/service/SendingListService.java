@@ -1,13 +1,13 @@
-package com.example.demo.service;
+package com.example.sender.service;
 
-import com.example.demo.entity.Client;
-import com.example.demo.entity.Message;
-import com.example.demo.entity.SendingList;
-import com.example.demo.entity.enums.StatusSending;
-import com.example.demo.model.ApiResponse;
-import com.example.demo.model.Msg;
-import com.example.demo.repository.ClientCrud;
-import com.example.demo.repository.MessageCrud;
+import com.example.sender.entity.Client;
+import com.example.sender.entity.Message;
+import com.example.sender.entity.SendingList;
+import com.example.sender.entity.enums.StatusSending;
+import com.example.sender.model.ApiResponse;
+import com.example.sender.model.Msg;
+import com.example.sender.repository.ClientCrud;
+import com.example.sender.repository.MessageCrud;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;

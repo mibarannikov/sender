@@ -1,4 +1,4 @@
-package com.example.demo.entity.enums;
+package com.example.sender.entity.enums;
 
 public enum StatusSending {
     SENDING,

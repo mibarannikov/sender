@@ -1,6 +1,6 @@
-package com.example.demo.entity;
+package com.example.sender.entity;
 
-import com.example.demo.entity.enums.StatusSending;
+import com.example.sender.entity.enums.StatusSending;
 import lombok.Getter;
 import lombok.Setter;
 
@@ -13,8 +13,6 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
-import javax.persistence.OneToOne;
-import java.time.LocalDateTime;
 
 @Getter
 @Setter

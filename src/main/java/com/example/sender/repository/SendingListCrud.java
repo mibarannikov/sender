@@ -1,7 +1,7 @@
-package com.example.demo.repository;
+package com.example.sender.repository;
 
-import com.example.demo.entity.SendingList;
-import com.example.demo.entity.enums.SendingListStatus;
+import com.example.sender.entity.SendingList;
+import com.example.sender.entity.enums.SendingListStatus;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.rest.core.annotation.RestResource;
 

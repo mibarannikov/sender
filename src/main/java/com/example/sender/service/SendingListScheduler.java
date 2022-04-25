@@ -1,8 +1,8 @@
-package com.example.demo.service;
+package com.example.sender.service;
 
-import com.example.demo.entity.SendingList;
-import com.example.demo.entity.enums.SendingListStatus;
-import com.example.demo.repository.SendingListCrud;
+import com.example.sender.entity.SendingList;
+import com.example.sender.entity.enums.SendingListStatus;
+import com.example.sender.repository.SendingListCrud;
 import lombok.RequiredArgsConstructor;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;

@@ -1,6 +1,6 @@
-package com.example.demo.repository;
+package com.example.sender.repository;
 
-import com.example.demo.entity.Client;
+import com.example.sender.entity.Client;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.rest.core.annotation.RestResource;
 

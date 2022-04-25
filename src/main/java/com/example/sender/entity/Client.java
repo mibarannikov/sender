@@ -1,4 +1,4 @@
-package com.example.demo.entity;
+package com.example.sender.entity;
 
 import lombok.Getter;
 import lombok.Setter;

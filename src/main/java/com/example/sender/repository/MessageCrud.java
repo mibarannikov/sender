@@ -1,8 +1,7 @@
-package com.example.demo.repository;
+package com.example.sender.repository;
 
-import com.example.demo.entity.Message;
-import com.example.demo.entity.SendingList;
-import com.example.demo.entity.enums.StatusSending;
+import com.example.sender.entity.Message;
+import com.example.sender.entity.enums.StatusSending;
 import org.springframework.data.repository.CrudRepository;
 
 
