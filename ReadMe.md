@@ -1,5 +1,5 @@
 
-## Sender - Server part of the web application for registering tasks for sending messages.
+## Sender - Server part of the web application for sending messages.
 
 This repository contains the server component of the Sender. It is a Spring Boot application that serves JSON data to power the frontend website and API.
 
